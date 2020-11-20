@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+main(int argc, char*argv[], char*envp[]){
+char*bash=envp[4]+6;
+printf("system = %p\n", system);
+printf("exit   = %p\n", exit);
+printf("bash   = %p (%s)\n", bash, bash);
+/*
+char**p=envp;
+puts(envp[4]+6);
+while(*p)puts(*p++);
+*/
+}

@@ -1,0 +1,7 @@
+https://refspecs.linuxfoundation.org/elf/
+
+https://sugawarayusuke.hatenablog.com/entry/2017/04/09/213133
+
+https://docs.oracle.com/cd/E19683-01/817-4912/6mkdg542u/index.html
+
+http://caspar.hazymoon.jp/OpenBSD/annex/elf.html
